@@ -1,2 +1,2 @@
 # Assignment-01
-Resume writing uing html
+Resume writing using html
